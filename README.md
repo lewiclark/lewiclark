@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 :hankey:
 
 <!--
 **lewiclark/lewiclark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -50,4 +50,5 @@ All bold and italic	*** ***		***All this text is important***	All this text is i
 
 ```
 - [x] Love Alyssa :shipit:
-
+- [x] Love Alyssa forever :shipit:
+- [ ] 爱我不 :shipit:
