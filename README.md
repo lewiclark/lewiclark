@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 -The outcomes based on goal indicated the less Money/Goal the higher persentage, vice versa.
 
 
-#### this assignment sucks 
+_** #### this assignment sucks **_
