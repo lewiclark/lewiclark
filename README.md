@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Deliverable 1: Outcomes based on launch date chart
+Deliverable 2: Outcomes based on goals chart
+Deliverable 3: A written analysis of the results (README.md)
