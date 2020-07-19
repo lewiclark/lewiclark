@@ -49,5 +49,5 @@ Bold and nested italic	** ** and _ _		**This text is _extremely_ important**	Thi
 All bold and italic	*** ***		***All this text is important***	All this text is important
 
 ```
+- [x] Love Alyssa :shipit:
 
-### - [x] Love Alyssa :shipit:
