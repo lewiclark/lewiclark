@@ -15,17 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Deliverable 1: Outcomes based on launch date chart
+## Deliverable 1: Outcomes based on launch date chart
 ![](resources/Theater_Outcomes_vs_Launch.png)
-Deliverable 2: Outcomes based on goals chart
+## Deliverable 2: Outcomes based on goals chart
 ![](resources/Outcomes_vs_Goals.png)
 
+## Deliverable 3: A written analysis of the results (README.md)
 
-Deliverable 3: A written analysis of the results (README.md)
+-The Written analysis for graph one we can see that the outcome succefful rate are most likely happen during spring to summer time, and it will die down at the end of the year, its giving us the indication of when will be the best time of year to preform this activity.
 
-The Written analysis for graph one we can see that the outcome succefful rate are most likely happen during spring to summer time, and it will die down at the end of the year, its giving us the indication of when will be the best time of year to preform this activity.
-
-The outcomes based on goal indicated the less Money/Goal the higher persentage, vice versa.
+-The outcomes based on goal indicated the less Money/Goal the higher persentage, vice versa.
 
 
-### this assignment sucks 
+#### this assignment sucks 
