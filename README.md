@@ -23,4 +23,9 @@ Deliverable 2: Outcomes based on goals chart
 
 Deliverable 3: A written analysis of the results (README.md)
 
+The Written analysis for graph one we can see that the outcome succefful rate are most likely happen during spring to summer time, and it will die down at the end of the year, its giving us the indication of when will be the best time of year to preform this activity.
+
+The outcomes based on goal indicated the less Money/Goal the higher persentage, vice versa.
+
+
 ### this assignment sucks 
