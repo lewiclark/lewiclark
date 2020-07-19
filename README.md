@@ -27,4 +27,27 @@ Here are some ideas to get you started:
 -The outcomes based on goal indicated the less Money/Goal the higher persentage, vice versa.
 
 
-_**#### this assignment sucks**_
+
+
+
+
+```
+git status
+git add
+git commit
+This site was built using [GitHub Pages](https://pages.github.com/)
+
+- [x] Finish my changes
+- [ ] Push my commits to GitHub
+- [ ] Open a pull request
+
+Style	Syntax	Keyboard shortcut	Example	Output
+Bold	** ** or __ __	command/control + b	**This is bold text**	This is bold text
+Italic	* * or _ _	command/control + i	*This text is italicized*	This text is italicized
+Strikethrough	~~ ~~		~~This was mistaken text~~	This was mistaken text
+Bold and nested italic	** ** and _ _		**This text is _extremely_ important**	This text is extremely important
+All bold and italic	*** ***		***All this text is important***	All this text is important
+
+```
+
+### - [x] Love Alyssa :shipit:
